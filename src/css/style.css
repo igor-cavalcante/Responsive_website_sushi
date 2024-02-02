@@ -249,3 +249,8 @@ header{
   bottom: 0;
   transform: rotate(-30deg);
 }
+
+/* show menu */
+.show-menu{
+  top: 0;
+}
