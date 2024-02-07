@@ -286,10 +286,9 @@ header{
 }
 
 .home__title div{
-  padding: 3px 0px;
   display: flex;
   justify-content: center;
-  text-align: center;
+  align-items: center;
   column-gap: .5rem;
 }
 
